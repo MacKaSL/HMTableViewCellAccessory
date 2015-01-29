@@ -10,6 +10,7 @@ Customised UITableViewCell Accessory with custom image.
 
 ### About
 This provides you to use a custom image as UITableViewCellAccessory. Here I have added an UIImageView as the cell accessory. Then I keep tracking which row was selected before with the variable named `previousIndexPath` and which one is selected now with the variable named `currentIndexPath`.
+The custom cell accessory is shown with Spring animation.
 
 Enjoy :smiley:
 ===
